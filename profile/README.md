@@ -1,3 +1,5 @@
+# On pause until an appropriate project arises.
+
 <div align="center">
   <img src="https://codecured.org/branding/logo/logo_transparent.png" width="500px">
 </div>
